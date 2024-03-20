@@ -2,6 +2,6 @@
 Matlab solution for a classic RL problem
 More detailed readme incoming ...
 
-#Description
+#Description\
 location.m --> class of a single location \
 Jack.m ----> class of the problem (two instances of location)
